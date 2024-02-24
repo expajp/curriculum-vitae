@@ -1,7 +1,7 @@
 最終更新：2024/02/24
 
 ## これはなに
-大河原 修（@expajp ）の詳細な経歴です。
+大河原 修（[@expajp](https://github.com/expajp)）の詳細な経歴です。
 
 職務経歴書の本体は[README.md](README.md) をご確認ください。
 
