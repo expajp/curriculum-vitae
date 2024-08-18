@@ -49,6 +49,7 @@
     * [Project Euler](https://github.com/expajp/project_euler) 100問回答
     * [メタプログラミングRuby問題集](https://github.com/expajp/reading-metaprogramming-ruby) 完答
 * 主な成果
+    * 登壇：[エンジニアリングマネージャーはどう学んでいくのか](https://speakerdeck.com/expajp/how-do-engineering-managers-continue-to-learn-and-grow)（2024）
     * テックブログ：[LS/LM がRuby 2\.7 \-> 3\.2 にアップグレードするまでの軌跡 \- Linkers Tech Blog](https://linkers.hatenablog.com/entry/2023/06/28/161932)（2023）
     * 登壇：[Railsバージョンを倍にしたサービスのそれまでとそれから](https://speakerdeck.com/linkers_tech/till-and-from-that-time-of-a-web-service-whose-rails-version-was-doubled-number-kaigionrails)（2021）
     * OSS contribution：[Pull Request \#208 · rsolr/rsolr](https://github.com/rsolr/rsolr/pull/208)（2020）
