@@ -26,6 +26,20 @@
 | X(Twitter) |[@expajp](https://twitter.com/expajp) |
 | connpass | [expajp](https://connpass.com/user/expajp/) |
 
+
+## マネジメントスキル
+
+### コミュニティ活動
+* [Engineering Manager Meetup \- connpass](https://engineering-manager-meetup.connpass.com/)
+    * Meetup #8 以降のスタッフ
+    * 読書会コアメンバー
+
+### 主なQiita記事
+* [EMはいかに自分の仕事をマネジメントするか](https://qiita.com/expajp/items/8936a64a93b670a05a8a) (2023/12/10)
+* [エンジニアリングマネージャに捧ぐ、積ん読を切り崩すための読書法](https://qiita.com/expajp/items/37d799d287c3fff66cf5) (2021/12/18)
+* [エンジニアリング組織の仕事を考えることで、EMが学ぶべきことを体系化してみた](https://qiita.com/expajp/items/650bd89746d40399d482) (2020/12/07)
+
+
 ## 技術スキル
 |技術名|業務利用した期間|バージョン等|
 | :--- | :--- | :--- |
@@ -44,7 +58,6 @@
     * [Project Euler](https://github.com/expajp/project_euler) 100問回答
     * [メタプログラミングRuby問題集](https://github.com/expajp/reading-metaprogramming-ruby) 完答
 * 主な成果
-    * 登壇：[エンジニアリングマネージャーはどう学んでいくのか](https://speakerdeck.com/expajp/how-do-engineering-managers-continue-to-learn-and-grow)（2024）
     * テックブログ：[LS/LM がRuby 2\.7 \-> 3\.2 にアップグレードするまでの軌跡 \- Linkers Tech Blog](https://linkers.hatenablog.com/entry/2023/06/28/161932)（2023）
     * 登壇：[Railsバージョンを倍にしたサービスのそれまでとそれから](https://speakerdeck.com/linkers_tech/till-and-from-that-time-of-a-web-service-whose-rails-version-was-doubled-number-kaigionrails)（2021）
     * OSS contribution：[Pull Request \#208 · rsolr/rsolr](https://github.com/rsolr/rsolr/pull/208)（2020）
@@ -80,7 +93,7 @@
     * [AWSの薄い本 IAMのマニアックな話](https://booth.pm/ja/items/1563844)
 
 #### Docker
-* 基本的なDockerfile作成と`docker-compose.yml` の作成が可能
+* 基本的なDockerfile作成と`compose.yml` の作成が可能
 * 主な学習リソース
     * [自宅ではじめるDocker入門](https://www.kohgakusha.co.jp/books/detail/978-4-7775-2072-5)（[読書記録のブログ記事](https://expajp-tech.hatenablog.com/entry/2021/07/18/192227)）
 
@@ -109,15 +122,18 @@
 
 ### 2017/11-現在：リンカーズ株式会社
 #### エンジニアリングマネージャー（2022/10-）
-* 技術と人のマネジメントを中心に、必要ならば自ら手を動かす
-* チームのロードマップを策定して予算を作成し、ロードマップを随時更新しながら開発の支援をする
-* Rubyのアップグレード・ImageMagickの撤廃などは自ら手を動かして実施
+技術と人のマネジメントを中心に、必要ならば自ら手を動かす
+
+* チームのロードマップを策定し、随時更新しながら開発を支援する
+* 上記のロードマップをもとに予算を策定・運用する
+* Rubyのアップグレード・ImageMagickの撤廃など、開発の足回りを整える作業を自ら実施する
 * 2023年後半以降はチーム外のタスクが増える
-    * 社内の稟議システムを移行するための部署横断プロジェクトのリーダー
-    * 別の開発チームのマネージャー・エンジニアを採用するための求人票作成とスカウト作成・選考活動
+    * 社内の稟議システムを移行する部署横断プロジェクトのリーダー
+    * 別の開発チームの求人票作成・スカウト送付・面接・技術試験の採点
 
 #### テックリード（2020/04-2022/09）
-* プロジェクトリーダーを行いつつ、チームの仕組みづくりを行う
+プロジェクトリーダーを行いつつ、チームの仕組みづくりを行う
+
 * プロジェクトリーダーとしてはElasticsearchの導入などが主な成果
 * ふりかえり・1on1・スクラムの導入や技術的負債を継続的に解消する仕組みの構築を行う
 
@@ -135,18 +151,6 @@
 * 新卒入社し研修を受ける
 * チームに配属され、Classic ASP製のWebアプリケーションを保守開発する
 * 一開発者としてアサインされたタスクを実施する
-
-
-## 社外活動
-### コミュニティ活動
-* [Engineering Manager Meetup \- connpass](https://engineering-manager-meetup.connpass.com/)
-    * Meetup #8 以降のスタッフ
-    * 読書会コアメンバー
-
-### 主なQiita記事
-* [EMはいかに自分の仕事をマネジメントするか](https://qiita.com/expajp/items/8936a64a93b670a05a8a) (2023/12/10)
-* [エンジニアリングマネージャに捧ぐ、積ん読を切り崩すための読書法](https://qiita.com/expajp/items/37d799d287c3fff66cf5) (2021/12/18)
-* [エンジニアリング組織の仕事を考えることで、EMが学ぶべきことを体系化してみた](https://qiita.com/expajp/items/650bd89746d40399d482) (2020/12/07)
 
 ## 自己PR
 私は、仕事において以下の3つを大事にしています。
