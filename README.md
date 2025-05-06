@@ -26,20 +26,6 @@
 | X(Twitter) |[@expajp](https://twitter.com/expajp) |
 | connpass | [expajp](https://connpass.com/user/expajp/) |
 
-
-## マネジメントスキル
-
-### コミュニティ活動
-* [Engineering Manager Meetup \- connpass](https://engineering-manager-meetup.connpass.com/)
-    * Meetup #8 以降のスタッフ
-    * 読書会コアメンバー
-
-### 主なQiita記事
-* [EMはいかに自分の仕事をマネジメントするか](https://qiita.com/expajp/items/8936a64a93b670a05a8a) (2023/12/10)
-* [エンジニアリングマネージャに捧ぐ、積ん読を切り崩すための読書法](https://qiita.com/expajp/items/37d799d287c3fff66cf5) (2021/12/18)
-* [エンジニアリング組織の仕事を考えることで、EMが学ぶべきことを体系化してみた](https://qiita.com/expajp/items/650bd89746d40399d482) (2020/12/07)
-
-
 ## 技術スキル
 |技術名|業務利用した期間|バージョン等|
 | :--- | :--- | :--- |
@@ -96,6 +82,48 @@
 * 基本的なDockerfile作成と`compose.yml` の作成が可能
 * 主な学習リソース
     * [自宅ではじめるDocker入門](https://www.kohgakusha.co.jp/books/detail/978-4-7775-2072-5)（[読書記録のブログ記事](https://expajp-tech.hatenablog.com/entry/2021/07/18/192227)）
+
+## マネジメント経験
+[経歴の要約](#経歴の要約)にて記述の通り、エンジニアリングマネージャーを務めています。
+
+本節では「[エンジニアリングマネージャーのロードマップ](https://hirokidaichi.github.io/presentation/emconf.html)」における「4つのP」を基に主なマネジメント経験を記載しています。
+
+なお「プロダクトマネジメント」は開発チーム単独で担う部分がないため項目として設けていません。[プロダクトバックログの優先順位付](details.md#保守開発へのスクラム導入)や[機能開発ロードマップの策定](details.md#部門ロードマップの作成と管理)はプロダクトマネージャと相談の上で行っています。
+
+### ピープルマネジメント
+* [目標設定・人事評価](details.md#目標設定・人事評価)
+* [エンジニアの採用活動・選考](details.md#エンジニアの採用活動・選考)
+* [1on1導入](details.md#1on1導入)
+
+### プラットフォームマネジメント
+* [Findy Team+を利用したメトリクスの運用](details.md#Findy Team+を利用したメトリクスの運用)
+* [コードホスティング・CIサービスの移行](details.md#コードホスティング・CIサービスの移行)
+* [技術的負債解消の仕組み化と運用](details.md#技術的負債解消の仕組み化と運用)
+
+### プロジェクトマネジメント
+* [稟議システム選定](details.md#稟議システム選定)
+* [脆弱性診断の発注側担当](details.md#脆弱性診断の発注側担当)
+
+### チームマネジメントにおけるその他の経験
+* [部門ロードマップの作成と管理](details.md#部門ロードマップの作成と管理)
+* [予算の策定および管理](details.md#予算の策定および管理)
+* [チーム内ドキュメント作成](details.md#チーム内ドキュメント作成)
+
+### 社外活動
+#### コミュニティ
+* [Engineering Manager Meetup \- connpass](https://engineering-manager-meetup.connpass.com/)
+    * Meetup #8 以降のスタッフ（#13以降はコアスタッフ）
+    * 読書会コアメンバー
+
+#### 登壇
+* [エンジニアリングマネージャーはどう学んでいくのか](https://speakerdeck.com/expajp/how-do-engineering-managers-continue-to-learn-and-grow)（2024/07/23＠[Developers Summit 2024 Summer](https://event.shoeisha.jp/devsumi/20240723)）
+* [omakaseしないための\.rubocop\.yml のつくりかた](https://speakerdeck.com/linkers_tech/how-to-build-your-rubocop-dot-yml-to-avoid-omakase)（2024/10/26＠[Kaigi on Rails 2024](https://kaigionrails.org/2024/)）
+* [あなたの「仮説検証」、ゆがんでいませんか？](https://speakerdeck.com/expajp/isnt-your-hypothesis-verification-distorted)（2025/03/24＠[EMConf Expansion!](https://emoasis.connpass.com/event/345359/)）
+
+#### ブログ記事の執筆
+* [EMはいかに自分の仕事をマネジメントするか](https://qiita.com/expajp/items/8936a64a93b670a05a8a) (2023/12/10)
+* [エンジニアリングマネージャに捧ぐ、積ん読を切り崩すための読書法](https://qiita.com/expajp/items/37d799d287c3fff66cf5) (2021/12/18)
+* [エンジニアリング組織の仕事を考えることで、EMが学ぶべきことを体系化してみた](https://qiita.com/expajp/items/650bd89746d40399d482) (2020/12/07)
 
 ## 資格
 |資格名|取得年月|
