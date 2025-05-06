@@ -282,7 +282,7 @@
 
 私は常に「自分の仮説が間違っているとしたら？」という問いを持ち続けており、実際にその思考を一部表現したのが以下の資料です。
 
-「[あなたの「仮説検証」、ゆがんでいませんか？](https://speakerdeck.com/expajp/isnt-your-hypothesis-verification-distorted)」
+[あなたの「仮説検証」、ゆがんでいませんか？](https://speakerdeck.com/expajp/isnt-your-hypothesis-verification-distorted)
 
 ---
 
