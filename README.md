@@ -24,7 +24,8 @@ VPoE、もしくはエンジニアリングマネージャー
 | Birthdate | 1990/09/09 |
 | Email | expajp[at]gmail.com |
 | GitHub |[expajp](https://github.com/expajp)|
-| Blog |[はてなブログ](https://expajp-tech.hatenablog.com/)|
+| Tech Blog |[はてなブログ](https://expajp-tech.hatenablog.com/)|
+| Book Blog |[はてなブログ](https://expajp-book.hatenablog.com/)|
 | Qiita |[expajp](https://qiita.com/expajp)|
 | Speaker Deck|[expajp](https://speakerdeck.com/expajp) |
 | Booklog |[expajp](https://booklog.jp/users/expajp) |
