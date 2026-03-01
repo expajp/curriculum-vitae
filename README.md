@@ -34,13 +34,13 @@
 ## 技術スキル
 |技術名|業務利用した期間|バージョン等|
 | :--- | :--- | :--- |
-| Ruby | 2017 - 現在 | 2.2 - 3.3 |
-| Ruby on Rails | 2017 - 現在 | 3.2 - 7.1 |
+| Ruby | 2017 - 現在 | 2.2 - 3.4 |
+| Ruby on Rails | 2017 - 現在 | 3.2 - 7.2 |
 | JavaScript | 2016 - 現在 | - |
-| Vue.js | 2019 - 現在 | 2.x - 3.x |
 | MySQL | 2017 - 現在 | 5.6, 5.7, 8.0 |
 | Amazon Web Service | 2017 - 現在 | 利用経験あるサービスは別記 |
 | Docker | 2018 - 現在 | - |
+| Vue.js | 2019 - 2025 | 2.x - 3.x |
 
 ### スキルレベル/学習リソース/成果
 #### Ruby / Ruby on Rails
@@ -49,6 +49,7 @@
     * [Project Euler](https://github.com/expajp/project_euler) 100問回答
     * [メタプログラミングRuby問題集](https://github.com/expajp/reading-metaprogramming-ruby) 完答
 * 主な成果
+    * 登壇：[入門 FormObject / An Introduction to FormObject \#kaigionrails \- Speaker Deck](https://speakerdeck.com/expajp/an-introduction-to-formobject)（2025）
     * テックブログ：[LS/LM がRuby 2\.7 \-> 3\.2 にアップグレードするまでの軌跡 \- Linkers Tech Blog](https://linkers.hatenablog.com/entry/2023/06/28/161932)（2023）
     * 登壇：[Railsバージョンを倍にしたサービスのそれまでとそれから](https://speakerdeck.com/linkers_tech/till-and-from-that-time-of-a-web-service-whose-rails-version-was-doubled-number-kaigionrails)（2021）
     * OSS contribution：[Pull Request \#208 · rsolr/rsolr](https://github.com/rsolr/rsolr/pull/208)（2020）
